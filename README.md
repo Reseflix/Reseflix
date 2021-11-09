@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<div id="menu">
+  <div id="menu-top">Quem sou eu?</div>
+  <div id="menu-middle">
+    <div class="menu-line">#Gosto de desenvolver projetos com coisas novas</div>
+    <div class="menu-line">#Fã de anime e jogos de pixeis</div>
+    <div class="menu-line">#Buscando conhecimento na area de machine learning</div>
+  </div>
+</div>
+
 <!--
 **Reseflix/Reseflix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
