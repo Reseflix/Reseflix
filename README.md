@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<div id="menu" style="position:relative;width:500px;left:50%;top:20px;transform:translate(-50%);box-shadow:5px 5px 20px white;">
-  <div id="menu-top" style="width:100%;height:40px;background-color:#001219;color:white;border-top-left-radius:5px;border-top-right-radius:5px;text-align:center;line-height:30px;font-weight: bold;font-size:25px;border-bottom:5px solid white;">Quem sou eu?</div>
+<div id="menu">
+  <div id="menu-top">Quem sou eu?</div>
   <div id="menu-middle">
     <div class="menu-line">#Gosto de desenvolver projetos com coisas novas</div>
     <div class="menu-line">#Fã de anime e jogos de pixeis</div>
