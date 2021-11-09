@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-<div id="menu">
-  <div id="menu-top">Quem sou eu?</div>
-  <div id="menu-middle">
-    <div class="menu-line">#Gosto de desenvolver projetos com coisas novas</div>
-    <div class="menu-line">#Fã de anime e jogos de pixeis</div>
-    <div class="menu-line">#Buscando conhecimento na area de machine learning</div>
+<div>
+  <div>Quem sou eu?</div>
+  <div>
+    <div>#Gosto de desenvolver projetos com coisas novas</div>
+    <div>#Fã de anime e jogos de pixels (tambem pixel art)</div>
+    <div>#Buscando conhecimento na area de machine learning</div>
+    <div>#Atualmente fazendo bacharelado em SI</div>
   </div>
 </div>
 <!--
