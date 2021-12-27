@@ -7,6 +7,7 @@
     <div>#Fã de anime e jogos de pixels (tambem pixel art)</div>
     <div>#Buscando conhecimento na area de machine learning</div>
     <div>#Atualmente fazendo bacharelado em SI</div>
+    <div>#Meus principais projetos São: RandPe, LaFelicita e SteveFiap</div>
   </div>
 </div>
 <!--
